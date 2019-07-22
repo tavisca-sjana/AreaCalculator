@@ -1,0 +1,15 @@
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+C:\Users\sjana\Desktop\AreaCalculator\Test\obj\Debug\netcoreapp1.1\Test.csprojResolveAssemblyReference.cache
+C:\Users\sjana\Desktop\AreaCalculator\Test\obj\Debug\netcoreapp1.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\sjana\Desktop\AreaCalculator\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\Test.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\Test.pdb
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\bin\Debug\netcoreapp1.1\AreaCalculator.pdb
+C:\Users\sjana\Desktop\AreaCalculator\Test\obj\Debug\netcoreapp1.1\Test.dll
+C:\Users\sjana\Desktop\AreaCalculator\Test\obj\Debug\netcoreapp1.1\Test.pdb
